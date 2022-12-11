@@ -1,0 +1,1 @@
+http "https://api.api-ninjas.com/v1/quotes/?category=happiness" "X-Api-Key":"smTtvFpU8McS5EVM9AXaqw==F28aVGJFlvN1tcP7"
